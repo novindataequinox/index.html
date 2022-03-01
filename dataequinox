@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="./style.css">
+	<title>Document</title>
+</head>
+<body style="background-color: azure;">
+
+	<div class="wrapper">
+<!---->
+<header>
+
+<div class="logo-section">
+
+<img src="./images/favicon.png" alt="" width="50px" height="50px">
+
+</div>
+<ul>
+	<li><a href="#DESCRIPTION"><b>DESCRIPTION</b></a></li>
+	<li><a href="#FEATURES"><b>FEATURES</b></a></li>
+	<li><a href="#SCREENS"><B>SCREENS</B></a></li>
+	<li><a href="#EXTRA"><B>EXTRA</B></a></li>
+  </ul>
+
+
+<h1 >Moble App Landing Page</h1>
+<p><blockquote>focusing on your goals and get more things done with sync mobile application.its the first app to
+	harness the power of social connections to help you stay focused and get organised</blockquote> 
+</p>
+
+<button type="button" onclick="alert ('hello world!')">DOWNLOAD</button>
+<button type="button" onclick="alert ('hello world!')">DOWNLOAD</button>
+
+
+
+
+
+</header>
+
+<img src="./images/header-iphone.png" width="500" height="600">
+
+
+
+
+
+	
+</body>
+</html>
